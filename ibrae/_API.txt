@@ -1,0 +1,9 @@
+XML
+http://webmon.ibrae.ac.ru/live/genxml.php?MSID=%D0%9A%D1%80%D1%81%D0%BA&PHPSESSID=1ojajkvl8tjl4114jlvrq7fpa0&what=actual&type=1
+
+
+История за 48 часов Пост Лесосибирск, ул. Мира,2
+http://webmon.ibrae.ac.ru/live/Measures.php?PHPSESSID=1ojajkvl8tjl4114jlvrq7fpa0&MSID=%D0%9A%D1%80%D1%81%D0%BA&ID=24040105&channelID=514
+
+История за 48 часов Пост ГУ МЧС пр. Мира, 56
+http://webmon.ibrae.ac.ru/live/Measures.php?PHPSESSID=1ojajkvl8tjl4114jlvrq7fpa0&MSID=%D0%9A%D1%80%D1%81%D0%BA&ID=24040105&channelID=510

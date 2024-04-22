@@ -1,0 +1,3534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <object>
+    <obj_params>
+      <gorod>п Абан</gorod>
+      <raion>Абанский р-н</raion>
+      <date_start>15.11.2017 10:00:00</date_start>
+      <date_finish>30.11.2017 16:00:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Вагино</gorod>
+      <raion>Боготольский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Кооперативная</street>
+      <home>51, 53, 57, 61, 65, 67, 69, 71, 73, 75, 77, 79</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Бартат</gorod>
+      <raion>Большемуртинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>пер Тупиковый</street>
+      <home>9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Бартат</gorod>
+      <raion>Большемуртинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Просвещения</street>
+      <home>б/н, 81, 83, 85, 87, 89, 91, 93, 95, 97</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Бартат</gorod>
+      <raion>Большемуртинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>69, 71, 73, 75</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Усолка</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>1Б, 1В</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Харьковка</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>1, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Чемурай</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>1, 1А, 2А, 3, 5, 6, 7, 9, 10, 11, 17, 19, 20, 21</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Дзержинское</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Дзержинское</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Кирова</street>
+      <home>156</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Дзержинское</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Ленина</street>
+      <home>11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Дзержинское</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Надежды</street>
+      <home>1а, 5</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Дзержинское</gorod>
+      <raion>Дзержинский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Энергетиков</street>
+      <home>2</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Солонцы</gorod>
+      <raion>Емельяновский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Виктории</street>
+      <home>Улица полностью</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новониколаевка</gorod>
+      <raion>Иланский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новониколаевка</gorod>
+      <raion>Иланский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>24, 26, 28, 30, 32</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новониколаевка</gorod>
+      <raion>Иланский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>44, 45, 46, 47, 49, 50, 51, 52, 55, 57, 58, 59, 60, 62, 63, 64, 67, 71, 86</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Боготол</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>24.11.2017 12:00:00</date_start>
+      <date_finish>15.12.2017 17:00:00</date_finish>
+      <street>ул Колхозная</street>
+      <home>52А, 54, 56, 58, 60, 60А</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Боготол</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>24.11.2017 12:00:00</date_start>
+      <date_finish>15.12.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>125</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул 2-я Озерная</street>
+      <home>42</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул 4-я Продольная</street>
+      <home>70</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул 8 Марта</street>
+      <home>18Г</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Анатолия Гладкова</street>
+      <home>4</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Грунтовая</street>
+      <home>17А</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Железнодорожников</street>
+      <home>15</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Железнодорожников</street>
+      <home>б/н, 24, 24А, 24а, 26, 26Б, 28, 32</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул им А.С.Попова</street>
+      <home>8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Калинина</street>
+      <home>49, 70 а, 70Б, 70а, 70в, 72, 188</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Маерчака</street>
+      <home>65, 67, 67а, 69, 83б, 83в, 85, 85б, 87, 87б, 99а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Маерчака</street>
+      <home>14</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Новая Заря</street>
+      <home>33</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Озерная</street>
+      <home>41</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Северная</street>
+      <home>8, 9</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 08:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Северо-Енисейская</street>
+      <home>7, 42, 44, 44а, 44г, 46, 46а, 48, 52</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Красноярск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Северо-Енисейская</street>
+      <home>40, 42, 402</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Минусинск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Метелкина</street>
+      <home>1 Г</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Минусинск</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Сотниченко</street>
+      <home>56</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>кв-л Листвяг</street>
+      <home>47, 112</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр 1-й</street>
+      <home>0, 106</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 09:30:00</date_start>
+      <date_finish>27.11.2017 14:00:00</date_finish>
+      <street>мкр 1-й</street>
+      <home>3, 7а, 104, 105, 107</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>мкр 2-й</street>
+      <home>12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр 2-й</street>
+      <home>15</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>мкр 5-й</street>
+      <home>10</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр 5-й</street>
+      <home>3а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр 6-й</street>
+      <home>0, б/н, 1, 2, 3, 3а, 5, 6, 8, 8парковая, 9, 10, 12, 13, 14, 14а, 15, 16, 16А, 16а, 17, 20, 21, 21а, 22, 23, 25, 27, 38а, 39, 39А, 41, 41а, 44, 44а, 45, 50, 52, 52Б, 54, 55, 56, 56а, 58, 6/1, 102, 116, 601, 602, 604, 606, 608, 610, 611, 612, 613, 617, 619, 620, 622, 636, 637, 638, 639, 640, 641, 643, 644, 645, 647, 647А, 648, 649, 650, 652</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр 7-й</street>
+      <home>0, 1, 8, 11, 12, 13, 14, в 20м, 709, 710, 711, 712, 714, 715, 715а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр 9-й</street>
+      <home>1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр Ашпыл</street>
+      <home>0, 1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр Пионерный</street>
+      <home>27</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>мкр Северный</street>
+      <home>32, 3/3</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пер Бульварный</street>
+      <home>2, 3, 4, 6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пер Жемчужный</street>
+      <home>2, 4, 5, 6, 7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пер Снежный</street>
+      <home>3, 5, 6, 7, 9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пер Тополиный</street>
+      <home>1, 3, 5, 7, 9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пр-кт Преображенский</street>
+      <home>б, б/н, 1, 3, 5, 6, 7, 8, 9, 11, 13, 15, 17, 19, 21, 25</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пр-кт Центральный</street>
+      <home>3, 65, 73, 85</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>пр-кт Энергетиков</street>
+      <home>1, 5, 6, 4/2</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Березовая</street>
+      <home>б/н, 22</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Братская</street>
+      <home>16а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Веерная</street>
+      <home>2, 3, 4, 6, 8, 10, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Восточная</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 8, 10, 12, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Геодезическая</street>
+      <home>1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 16, 19, 20, 21, 22, 23, 26, 28, 30, 31, 32, 33, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 84, 86, 88, 90, 92, 94, 96, 98, 100, 104, 106, 108, 110</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Горняцкая</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Западная</street>
+      <home>3, 6, 8, 9, 11, 12, 12а, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 37, 39, 41, 43, 45, 49, 51</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Кольцевая</street>
+      <home>3, 4, 5, 6, 7, 10, 12, 14, 16, 22, 24, 28</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Комсомольская</street>
+      <home>1, 5</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>27.11.2017 09:30:00</date_start>
+      <date_finish>27.11.2017 14:00:00</date_finish>
+      <street>ул Комсомольская</street>
+      <home>13</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Короткая</street>
+      <home>12, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Лазурная</street>
+      <home>24</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Листвяжная</street>
+      <home>3, 5, 7, 15, 17, 19, 23</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Луговая</street>
+      <home>2, 3, 4, 6, 9, 13, 15</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Никольская</street>
+      <home>2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 58, 60, 62, 64, 70, 72, 74</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Норильская</street>
+      <home>10</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Полевая</street>
+      <home>1, 4, 6, 7, 9, 12, 13, 15</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Привольная</street>
+      <home>4, 6, 7, 8, 9, 11, 13, 19, 21, 23, 30, 63</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Просторная</street>
+      <home>1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Ромашковая</street>
+      <home>б/н, 4, 6, 7, 9, 11, 13, 14, 15, 17</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Российская</street>
+      <home>1, 3, 10, 75, 134а, 136А, 138/4</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Садовая</street>
+      <home>2, 5, 18, 20</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Сибирская</street>
+      <home>1, 2, 4, 5, 6, 7, 7а, 8, 9, 10, 11, 12, 13, 13А, 14, 15, 16, 18, 18а, 20, 21, 22, 23, 24, 25, 26, 28</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Стартовая</street>
+      <home>9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Тополиная</street>
+      <home>2, 3, 4, 5, 7, 7А, 10, 14, 16, 18</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Энтузиастов</street>
+      <home>1, 3, 6, 12, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Шарыпово</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>30.11.2017 09:00:00</date_start>
+      <date_finish>30.11.2017 17:00:00</date_finish>
+      <street>ул Юго-Западная</street>
+      <home>6, 8, 16, 34, 42, 46</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>дп Джойка</gorod>
+      <raion>Красноярский край</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home>б/н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Комарково</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н, б\н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Озеро Тагарское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н, б\н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н, б\н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Зеленая</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 23</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Луговая</street>
+      <home>8, 12</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Майская</street>
+      <home>2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 17</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Мира</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 18</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Солнечная</street>
+      <home>1, 2, 3, 5</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Степная</street>
+      <home>б/н, 1, 1 А, 2, 3, 4, 5, 6, 8, 10</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Суходол</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Трактовая</street>
+      <home>1, 2, 2 А, 2 Б, 3, 4, 5, 5А, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 21</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Знаменка</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Больничная</street>
+      <home>4, 6, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Знаменка</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Светлая</street>
+      <home>6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Знаменка</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Сосновая</street>
+      <home>17, 19, 20, 26, 28, 30, 32, 34, 54, 62</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Знаменка</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Шоссейная</street>
+      <home>б\н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Знаменка</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Южная</street>
+      <home>5, 26</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>проезд Северный</street>
+      <home>13</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>тер Дачи</street>
+      <home>6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул А.А.Баранникова</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Боровая</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Енисейская</street>
+      <home>1Б</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Зеленая</street>
+      <home>1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Колобова</street>
+      <home>1, 1Б, 1б, 3, 5, 7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Комсомольская</street>
+      <home>4</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Ленина</street>
+      <home>1, 1а, 2, 2 Б, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Луговая</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 10, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Мира</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>1, 2, 3, 5</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Песочная</street>
+      <home>1, 2, 3, 3а, 6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Почтовая</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 21</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Сосновая</street>
+      <home>7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Лугавское</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Тагарская</street>
+      <home>1, 2, 3, 4, 6, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home>1</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>пер Новый</street>
+      <home>1, 2, 4</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>пер Первомайский</street>
+      <home>1, 2, 3, 4, 13</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>пер Пионерский</street>
+      <home>1, 2, 2А, 2а, 3, 5, 7, 9</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>пер Сухой</street>
+      <home>1, 2, 3, 4</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>пер Центральный</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>проезд 5км-700м справа а/д Минусинск-Кур</street>
+      <home>0, б/н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>проезд Площадка коммунального хозяйства,</street>
+      <home>б/н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>снт Оазис</street>
+      <home>4, 21</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н, б\н, 1, 2, 3, 13, 14, 16, 22, 23</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Заречная</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 7 А, 8, 9, 10, 10 В, 11, 12, 13, 14, 15, 19, 21, 21а, 23, 23 А, 25, 27, 27 А</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Кемеровская</street>
+      <home>2, 3 А, 5 А, 7 А, 8, 9, 10, 12, 14, 15</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Ленина</street>
+      <home>б/н, 1, 1а, 1б, 1в, 1г, 2, 2 Б, 2Г, 2а, 2в, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47 А, 48, 49, 50, 50а, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 60а, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 71а, 72, 73, 74, 75, 76, 76 А, 77, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Луговая</street>
+      <home>3 А, 5, 9, 11, 17, 19, 31</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Микрорайон</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 8 А, 9, 11, 12, 13, 15, 17, 18, 19, 21, 22, 23, 25, 25 А, 27, 27А, 27В, 29, 29 Б, 29Д, 27"б"-2 "Б</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Мира</street>
+      <home>2 А, 4, 5, 7А, 8, 8 А, 12, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26А, 27, 28, 29, 31</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>б/н, 1, 1 Б, 1 В, 2 А, 3, 3 А, 4, 5, 6, 7, 8, 10, 10Б, 10а, 10в, 12, 14, 16, 23</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Набережная</street>
+      <home>1, 3, 5, 7, 9, 11, 13, 15</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Октябрьская</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 43, 44, 45, 46, 46А, 47, 49, 51, 52, 53, 54, 55, 57, 58, 58 А, 59, 60, 61, 63, 65, 65 А, 67, 69, 71, 73, 77</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Победы</street>
+      <home>1, 1 А, 3</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Подгорная</street>
+      <home>б/н, 1, 1а, 2, 3, 4, 4 А, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 16А, 17, 18, 19, 20, 21, 23, 25, 27, 29</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Полевая</street>
+      <home>1, 1 А, 1 Д, 1Б</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Советская</street>
+      <home>б/н, 1, 1 А, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44в, 45, 47, 48, 48 А, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 79, 79 А</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Солнечная</street>
+      <home>1, 2, 2 А, 3, 4, 5, 6, 7, 8, 9, 10</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Спортивная</street>
+      <home>1, 2, 4, 6, 7, 8, 10, 11, 15, 17, 25, 27</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Степная</street>
+      <home>1, 4, 21, 23, 24, 25, 26, 28</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Строительная</street>
+      <home>2, 4, 6, 8</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Туманная</street>
+      <home>3, 5, 7, 11, 13, 14, 23, 25</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Фестивальная</street>
+      <home>б/н, 1, 1а, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 18</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Школьная</street>
+      <home>2 А, 4, 6, 8, 10</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малая Минуса</gorod>
+      <raion>Минусинский р-н</raion>
+      <date_start>26.11.2017 15:08:00</date_start>
+      <date_finish>05.12.2017 15:08:00</date_finish>
+      <street>ул Шоссейная</street>
+      <home>б/н, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 27а, 29, 31, 33, 35, 37, 39, 41, 43, 43а, 45, 45а, 47, 49, 51, 53, 55, 57, 59, 61, 63</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>рп Нижний Ингаш</gorod>
+      <raion>Нижнеингашский р-н</raion>
+      <date_start>26.11.2017 15:00:00</date_start>
+      <date_finish>26.11.2017 17:00:00</date_finish>
+      <street>пер С.Лазо</street>
+      <home>1, 2, 3, 4, 2 а соор.1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>рп Нижний Ингаш</gorod>
+      <raion>Нижнеингашский р-н</raion>
+      <date_start>26.11.2017 15:00:00</date_start>
+      <date_finish>26.11.2017 17:00:00</date_finish>
+      <street>ул Красная площадь</street>
+      <home>Улица полностью</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>рп Нижний Ингаш</gorod>
+      <raion>Нижнеингашский р-н</raion>
+      <date_start>26.11.2017 15:00:00</date_start>
+      <date_finish>26.11.2017 17:00:00</date_finish>
+      <street>ул Ленина</street>
+      <home>153</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>рп Нижний Ингаш</gorod>
+      <raion>Нижнеингашский р-н</raion>
+      <date_start>26.11.2017 15:00:00</date_start>
+      <date_finish>26.11.2017 17:00:00</date_finish>
+      <street>ул Набережная</street>
+      <home>8, 16, 16А, 16а, 18, 20</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>рп Нижний Ингаш</gorod>
+      <raion>Нижнеингашский р-н</raion>
+      <date_start>26.11.2017 15:00:00</date_start>
+      <date_finish>26.11.2017 17:00:00</date_finish>
+      <street>ул Первомайская</street>
+      <home>9а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>рп Тинской</gorod>
+      <raion>Нижнеингашский р-н</raion>
+      <date_start>26.11.2017 15:00:00</date_start>
+      <date_finish>26.11.2017 17:00:00</date_finish>
+      <street>ул Трактовая</street>
+      <home>1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новоселово</gorod>
+      <raion>Новоселовский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Совхозная</street>
+      <home>2А</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Булатновка</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home>18</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Булатновка</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Без названия</street>
+      <home>25</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Булатновка</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Центральная</street>
+      <home>3, 4, 8, 9, 10, 10/А, 11, 11а, 13, 13а, 14, 15а, 18, 21, 28</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Малый Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Малый Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Без названия</street>
+      <home>Улица полностью</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Малый Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Зеленая</street>
+      <home>4, 15, 27, 29, 30, 32, 35, 37, 38, 44, 45, 48, 49, 51, 52, 54, 57, 58, 60, 62, 64, 66, 67, 68, 72, 75, 76</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Малый Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Центральная</street>
+      <home>5, 6, 7, 10, 11, 13, 19, 56, 59, 61</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Малый Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>уч-к 196 (№46 – пастбище)</street>
+      <home>б/н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Хайдак</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home>91, 128</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Хайдак</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>км 5,4 на северо-восток</street>
+      <home>91</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Хайдак</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Хайдак</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Лесная</street>
+      <home>1, 3, 5</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Хайдак</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Центральная</street>
+      <home>1, 3, 4, 7, 8, 8а, 9, 10, 12, 14, 15, 16, 17, 19, 20, 21, 23, 25, 28, 30, 32, 33, 34, 35, 37, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 64, 65, 67, 72, 74, 75, 77, 78, 79, 82, 84, 86, 88, 89, 92, 93, 94, 95, 97, 100, 101, 102, 103, 105, 106, 108, 109, 110, 111, 111А, 112, 114, 116, 117, 119, 120, 122, 124, 125, 126, 128, 129, 130, 132, 134</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Запасной Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Песчаная</street>
+      <home>1, 2, 5, 8, 10, 13</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Запасной Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Степная</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13/А, 14, 15, 16, 17, 36</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Запасной Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Таежная</street>
+      <home>3, 4, 6, 9, 12, 13, 14, 15, 17, 19, 21, 25, 47, 57, 95</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Запасной Имбеж</gorod>
+      <raion>Партизанский р-н</raion>
+      <date_start>26.11.2017 16:20:00</date_start>
+      <date_finish>05.12.2017 16:20:00</date_finish>
+      <street>ул Центральная</street>
+      <home>Улица полностью</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Заозерный</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>26.11.2017 15:10:00</date_start>
+      <date_finish>05.12.2017 15:10:00</date_finish>
+      <street>ул Пугачева</street>
+      <home>17, 17А,В,Б.</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Завировка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>1, 2, 3, 4, 5, 6, 8, 10</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Завировка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Победы</street>
+      <home>1, 2, 3, 4, 5</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Завировка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>б/н, 1, 2, 3, 4, 5, 7, 9, 11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Завировка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>1Б, 2, 3, 4, 5, 6, 7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Рябинки</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Лесная</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Старая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Зеленая</street>
+      <home>1, 3, 5, 6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Старая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>б/н, 1, 4, 6, 7, 8, 9, 11, 11А, 12, 13, 14, 20, 21, 25, 27</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул 40 лет Октября</street>
+      <home>б/н, 3, 5, 7, 9, 9а, 11, 17, 19, 25, 31, 33, 35</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Вокзальная</street>
+      <home>б/н, 1, 1а, 9, 11, 15, 15б, 17, 23, 29, 33</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Гоголя</street>
+      <home>7, 8, 9, 10, 11, 31, 32, 33, 35, 37, 38, 45, 50, 53, 54, 61, 62, 63, 65, 66, 71, 72, 73, 74, 77, 80, 81, 82, 86, 88, 90</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Куликовская</street>
+      <home>4, 6, 6а, 8, 9, 10, 11, 14, 15, 16, 19, 20, 21, 22, 23, 28, 30, 31, 35, 37, 39, 41, 43, 44, 47, 49, 51, 55, 63, 65, 69, 77</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>2, 4, 6, 8, 10, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Октябрьская</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Первомайская</street>
+      <home>23</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Профсоюзная</street>
+      <home>1а, 2, 3, 4, 5, 7, 9, 10, 14, 15, 17, 22, 24, 27</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Степная</street>
+      <home>б/н, 1, 2, 5, 7, 9, 11, 13, 15, 17, 21</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Центральная 2-я</street>
+      <home>ряд 1, 6, 6А, 9, 10, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Чапаева</street>
+      <home>3, 5, 21</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новая Солянка</gorod>
+      <raion>Рыбинский р-н</raion>
+      <date_start>25.11.2017 20:00:00</date_start>
+      <date_finish>26.11.2017 08:00:00</date_finish>
+      <street>ул Южная</street>
+      <home>19</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Уяр</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>км 2 автодороги "Уяр-Красноярск"</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Уяр</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Бограда</street>
+      <home>65а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Уяр</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Крылова</street>
+      <home>14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Уяр</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Нефтепровод</street>
+      <home>б/н, 1а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>г Уяр</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Поселок Нефтепровод</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Каменно-Горновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Марьевка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>км 555 автодороги "Байкал"</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Марьевка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 13:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Семеновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Красноармейская</street>
+      <home>13</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Заводская</street>
+      <home>2, 3, 4, 5, 6, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Карла Маркса</street>
+      <home>112</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Ленина</street>
+      <home>1, 2</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Мира</street>
+      <home>3</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>1, 3, 5, 6, 7, 8, 9, 10, 12, 14, 89</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Балай</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Трактовая</street>
+      <home>1а, 2, 4, 6, 8, 10, 10Б, 10а, 12А, 14, 14А, 16, 17, 18</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Жандат</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Речная</street>
+      <home>1а, 2, 2Б, 3, 4, 5, 6, 8, 9, 10, 11, 1-А, 2-А,, 14, 16, 2А-3</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Жандат</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Таежная</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18, 20</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Красный</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Болотная</street>
+      <home>2, 3, 4, 5, 7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Красный</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Железнодорожная</street>
+      <home>1, 2, 3, 4, 5, 6, 8, 9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Красный</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Нагорная</street>
+      <home>2, 4</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Красный</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 13:00:00</date_start>
+      <date_finish>27.11.2017 16:00:00</date_finish>
+      <street>ул Тингинская</street>
+      <home>2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Роща</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Роща</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Роща</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Майская</street>
+      <home>1, 3, 4, 6, 8, 10, 12, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Роща</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Октябрьская</street>
+      <home>б/н, 1, 1а, 1в, 3, 5, 6, 7, 8, 9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>п Роща</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>27.11.2017 10:00:00</date_start>
+      <date_finish>27.11.2017 13:00:00</date_finish>
+      <street>ул Труда</street>
+      <home>1, 2, 4, 5, 7, 8, 9, 10, 11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>Населенный пункт полностью</street>
+      <home></home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>км 0,47 на север от нефтепровода "Омск-И</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 13:00:00</date_finish>
+      <street>км 561 автодороги "Байкал"</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 13:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Без названия</street>
+      <home>б/н, 11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Верхняя</street>
+      <home>1, 1а, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 17, 18, 20, 21, 22, 23, 25, 26, 28, 29, 30, 31, 33, 35, 37</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Нижняя</street>
+      <home>1, 2, 3, 5, 6, 7, 9, 11, 13, 15, 17, 19, 21, 25, 29, 33, 35, 37, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 13:00:00</date_finish>
+      <street>ул Нижняя</street>
+      <home>66</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 23</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 10:00:00</date_start>
+      <date_finish>28.11.2017 13:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>57</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ольгино</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 16:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>б/н, 1, 1 А, 1 Б, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, 35 А, 37, 37А, 38, 39, 41, 43, 45, 49, 51</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Ангарская</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Апрельская</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Геологов</street>
+      <home>б/н, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Обручева</street>
+      <home>1, 2, 4, 6, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Саянская</street>
+      <home>1, 2, 3, 4, 5, 6, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Юбилейная</street>
+      <home>1, 3, 4, 5, 7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Сушиновка</gorod>
+      <raion>Уярский р-н</raion>
+      <date_start>29.11.2017 10:00:00</date_start>
+      <date_finish>29.11.2017 13:00:00</date_finish>
+      <street>ул Южная</street>
+      <home>2, 4, 6, 8, 10</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Александровка</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Свободная</street>
+      <home>24</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гляден</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>мкр Солнечный</street>
+      <home>1, 9, 14, 16</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гляден</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Гагарина</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 11А, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гляден</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гляден</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>1, 1В, 2, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 12, б/н ТП31-1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гляден</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Чапаева</street>
+      <home>б/н, 1, 1а, 2, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 11А, 12, 12Б, 13, 13 г, 13А, 13Б, 13В, 13б, 13г, 14, 15, 15А, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 30а, 31, 33, 34, 35, 37, 38, 39, 41, 42, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54, 55, 56, 57, 57А, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 73, 75, 76, 76А, 77, 79, 80, 81, 83, 85, 87, 87а, 89, 91, 93а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Горбы</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Заречная</street>
+      <home>2а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гудково</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>0, б/н, 3, 4, 6, 7, 8, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28, 32, 34, 35, 36, 37, 38, 40, 41, 42, 45, 47, 49, 51, 53, 55, 57</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Гудково</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Южная</street>
+      <home>0, 1, 1В, 3, 6, 7, 17</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Ершово</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Садовая</street>
+      <home>1а</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Косонголь</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>26.11.2017 15:45:00</date_start>
+      <date_finish>05.12.2017 15:45:00</date_finish>
+      <street>ул Заречная</street>
+      <home>2А, 4, 6, 8, 11, 11А, 16, 17, 18Б, 20, 32, 36а</home>
+      <type_disable></type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Косые Ложки</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>Дачный</street>
+      <home>11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Косые Ложки</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Загорная</street>
+      <home>1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 23а, 24, 25, 25А, 26, 27, 29, 31</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Косые Ложки</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>1, 2</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Косые Ложки</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>1, 2, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 27А, 28, 29, 30, 32, 36, 38, 42, 44, 46</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>кв-л Берендеевка</street>
+      <home>б/н, 49, 51, 53, 57, 70, 83, 130а, 138, 228, 138-1, 138-2</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>пер Хакасский</street>
+      <home>б/н, 2а, 3, 7, 8, 10, 10А, 11, 12, 13, 14, 16, 21, 2а/1, 14-1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Глинка</street>
+      <home>б/н, 1, 1Б, 1а, 1в, 1г, 3, 5, 5А, 6, 7, 8, 9, 10, 11, 13А, 120, 122, 124, 126, 126а, 127, 128</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Лесная</street>
+      <home>1а, 2, 5, 9, 11, 1-3, 13, 1-5, 15</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Набережная</street>
+      <home>б/н, 1, 2, 4, 6, 7, 9, 11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>2, 3, 3Б, 3а, 4, 5, 6, 6а, 8, 9, 10, 12а, 18, 20, 3-1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>1, 1Б, 1В, 1а, 2, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 21, 25, 26, 27, 29, 30, 31, 32, 35, 36, 37, 38, 40, 42, 43, 44, 45, б/н ТП31-6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>д Сартачуль</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>Участок</street>
+      <home>59</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Больничная</street>
+      <home>0, 1, 2, 3, 4, 6, 8, 11, 12, 15, 17, 19, 21, 22, 25, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 39, 40, 42, 43, 44, 45, 47, 48, 49, 50, 52, 53, 54, 54А, 55, 56, 56а, 58, 60, 62, 64, 65, 66, 67, 68, 69, 70, 74, 75, 76, 77, 78</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Гагарина</street>
+      <home>0, 1а, 2, 4, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 21, 23, 25, 27</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Лесная</street>
+      <home>0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 17а, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Набережная</street>
+      <home>1, 2, 3</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Октябрьская</street>
+      <home>1, 3, 5, 9, 11, 13, 14, 15, 17, 18, 19, 21, 22, 25, 29, 30, 34, 36, 37, 39, 40, 41, 42, 44, 45, 49, 50, 53, 55, 57, 58, 60, 61, 62, 63, 65, 68, 70, 74, 76, 78, 80, 82, 84, 86, б/н ТП41-4</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Партизанская</street>
+      <home>1, 3, 4, 5, 9, 11, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 28, 29, 30, 32, 34, 35, 40, 41</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Просвещения</street>
+      <home>0, 2, 3, 4, 5, 7, 11, 13, 15, 16, 17, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 32, 34, 36, 38, 40, 42, 50</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Рабочая</street>
+      <home>29</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Садовая</street>
+      <home>0, 1, 3, 4, 5, 6, 7, 8, 10, 11, 11А, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 26, 28, 34, 38, 44</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>0, б/н, 1, 6, 15, 50, 54, 58, 59, 61, 61а, 61б, 62, 63, 63А, 64, 65, 66, 69, 71, 72, 73, 77, 78, 80, 82, 84, 85, 86, 88, 92, 95, 96, 98, 101, 102, 104, 106, 107, 108, 109, 110, 111, 112, 114, 115, 117, 118, 120, 122, 124, 125, 127, 131, 133, 133а, 135, 137, 139, 141, 142, 144, 145, 146, 148, 150, 154, 158, 159, 161, 162, 163, 165, 166, 167, 170, 171, 172, 173, 174, 175, 176, 178, 179, 184, 187, 188, 189, 190, 191, 198, 200, 201, 202, 206, 210, 25Б/1, б/н ТП41-4</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Трактовая</street>
+      <home>б/н, 17</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Березовское</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Береш</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Дорожная</street>
+      <home>б/н</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>пер Набережный</street>
+      <home>б/н, 1, 2, 3, 4, 6, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Вершинка</street>
+      <home>1, 1а, 2, 3, 4, 5, 6, 7, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Гайдара</street>
+      <home>2а, 3, 5, 6, 6а, 7, 8, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 28, 29, 30, 31, 33, 35</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Заречная</street>
+      <home>1, 2, 3, 4, 5, 7, 11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Малоозерская</street>
+      <home>1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 15, 15а, 16, 16а, 19</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Нагорная</street>
+      <home>6, 7, 8, 10, 13, 15, 17, 19, 21</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Новая</street>
+      <home>17</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>1, 1В, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 18, б/н ТП31-9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>1, 2, 2А, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 19, 20, 21, 22, 23, 24, 25, 27, 27А, 27а, 29, 31, 33, 35, 37, Б/Н тп31-9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>0, 1, 2, 2а, 3, 4, 5, 6, 7, 9, 11, 13, 19</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Большое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Юбилейная</street>
+      <home>1, 2, 3, 3А, 4, 5, 6, 8, 9, 11, 12, 13, 15, 16, 18, 20</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Ключевая</street>
+      <home>1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 23, 25, 28, 33, 35</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Лесная</street>
+      <home>1, 2, 3, 4, 5, 5А, 6, 7, 8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>0, б/н, 6, 7, 10, 11, 12, 14, 15, 16, 17, 19, 20, 21, 22, 23, 25, 27, 29, 31</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Центральная</street>
+      <home>0, б/н, 1, 2, 2А, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 14А, 16, 17, 18, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 40, 41, 42, 43, 45, 46, 47, 48, 49, 52, 53, 54, 55, 55А, 57, 59, 60, 63, 64, 65, 66, 67, 68, 69, 70, 72, 73, 75, 76, 77, 79, 84, 86, 94</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Малое Озеро</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>1, 1а, 2, 3, 4, 8, 10, 11, 13, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25, 29, 31а, 33, 33А, 35</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Новоалтатка</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>8</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Ораки</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Дача</street>
+      <home>1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>пер Партизанский</street>
+      <home>2, 3, 4, 6, 7в, 8, 10</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>пер Школьный</street>
+      <home>1, 2, 3, 3Б, 3В, 3Д, 3а, 3в, 3д, 3е, 4, 5, 6, 7, 9, 10, 11, 12</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>тер Мыс Боярка</street>
+      <home>в 3,5км</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул 40 лет Победы</street>
+      <home>1, 1А, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Гагарина</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 8А, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 28А</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Гайдара</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Елисеевская</street>
+      <home>1, 5</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Западная</street>
+      <home>1, 2, 3, 4, 5, 6, 7</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Зеленая</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 12а, 14</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Лесная</street>
+      <home>1, 1а, 2, 3</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Лесничество</street>
+      <home>1, 1В, 2, 2б, 3, 3а, 4, 5</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Набережная</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 12а, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 33, 34, 35, 36, 37, 38, 39, 40, 41, 41а, 42, 44, 45, 46, 47, 48, 49, 50, 51, 51а, 52, 53, 54, 55, 56, 58, 59, 59А, 60, 61, 64, 66, 67, 68, 68А, 70, 78</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Октябрьская</street>
+      <home>б/н, 1, 1а, 2, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22, 23, 24, 25, 25А, 26, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 40А, 41, 43, 44, 45, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67, 67Б, 67а, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, б/н ТП31-6</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Приозерная</street>
+      <home>0, 00, 2, 3, 3в, 4, 5, 6а, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22а, 23, 24, 24Г, 24б, 24в, 27, 28, 30, 31, 31 б, 31А, 31В, 32, 32А, 43, 44, 45, 45Б, 45з, 46, 46Б, 46В, 46Г, 46а, 47, 47В, 47Г, 47Д, 48, 50, 51а, 53, 54, 55, 20-1, 30б-1, 43/1, 45/3, 46В-1, 54-1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Прокопчика</street>
+      <home>1, 1В, 1Г, 1в, 2, 2а, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15, 17</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Советская</street>
+      <home>1, 1А, 2А, 2а, 3, 4, 5, 6, 7, 8, 8а, 9, 10, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 22 А, 24, 25, 26, 27, 28, 29, 30, 30а, 32, 33, 34, 35, 36, 37, 38, 40, 41, 43, 45, 46, 47, 49, 50, 51, 53, 54, 55, 57, 58, 59, 60, 60 б, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 72, 74, 75, 76, 76А, 77, 78, 79, 80, 81, 82, 83, 84, 86, 87, 88, 88а, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 107, 109, 112, 112а, 113, 115, 116, 120Б, б/н ТП31-6, б/н ТП31-9</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Совхозная</street>
+      <home>1, 2, 2а, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 41</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Парная</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Юбилейная</street>
+      <home>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Родники</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>28.11.2017 13:00:00</date_start>
+      <date_finish>28.11.2017 17:00:00</date_finish>
+      <street>ул Октябрьская</street>
+      <home>15</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Темра</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>пер Солнечный</street>
+      <home>2, 3</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Темра</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Калинина</street>
+      <home>б/н, 1, 2, 4, 5а, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59А, 60, 61, 61А, 62, 63, 64, 65, 66, 67, 68, 69, 69а, 74, 75, 76, 76а, 77, 78, 79, 81, 82, 83, 84, 85, 87, 88, 89, 90, 91, 92, 93, 94, 96, 98, 99, 100, 101, 102, 103, 105, 106, 107, 108, 109, 110, 111, 113, 115, 115А, 117</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Темра</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Молодежная</street>
+      <home>1, 3, 5, 7, 9, 11, 13</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Темра</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Набережная</street>
+      <home>1, 2, 3, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Темра</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Совхозная</street>
+      <home>1, 2</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+  <object>
+    <obj_params>
+      <gorod>с Темра</gorod>
+      <raion>Шарыповский р-н</raion>
+      <date_start>27.11.2017 09:00:00</date_start>
+      <date_finish>27.11.2017 17:00:00</date_finish>
+      <street>ул Школьная</street>
+      <home>1</home>
+      <type_disable>Плановое</type_disable>
+    </obj_params>
+  </object>
+</root>
